@@ -1,0 +1,1 @@
+-- DEPRECATED. Refer to 01-07 for accurate schema
